@@ -11,6 +11,7 @@
 		C5561ECA26E79EF700D03548 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5561EC926E79EF700D03548 /* ContentView.swift */; };
 		C5561ECC26E79EF900D03548 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5561ECB26E79EF900D03548 /* Assets.xcassets */; };
 		C5561ECF26E79EF900D03548 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5561ECE26E79EF900D03548 /* Preview Assets.xcassets */; };
+		C5561ED726E79FBC00D03548 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5561ED626E79FBC00D03548 /* ColorCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C5561ECB26E79EF900D03548 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C5561ECE26E79EF900D03548 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C5561ED026E79EF900D03548 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5561ED626E79FBC00D03548 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C5561EC726E79EF700D03548 /* TrafficLights_On_SwiftUIApp.swift */,
 				C5561EC926E79EF700D03548 /* ContentView.swift */,
+				C5561ED626E79FBC00D03548 /* ColorCircle.swift */,
 				C5561ECB26E79EF900D03548 /* Assets.xcassets */,
 				C5561ED026E79EF900D03548 /* Info.plist */,
 				C5561ECD26E79EF900D03548 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				C5561ECA26E79EF700D03548 /* ContentView.swift in Sources */,
 				C5561EC826E79EF700D03548 /* TrafficLights_On_SwiftUIApp.swift in Sources */,
+				C5561ED726E79FBC00D03548 /* ColorCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
